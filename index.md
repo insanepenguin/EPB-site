@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -25,8 +24,8 @@ https://templatemo.com/tm-530-mini-profile
             <!-- Black transparent bg -->
             <div class="ml-auto mr-0 tm-bg-black-transparent text-white tm-brand-container-inner">
               <div class="tm-brand-container text-center">
-                <h1 class="tm-brand-name">Mini Profile</h1>
-                <p class="tm-brand-description mb-0">simple parallax template</p>
+                <h1 class="tm-brand-name">Edmond Behaeghel</h1>
+                <p class="tm-brand-description mb-0">Computer Information Technologies Student</p>
               </div>
             </div>
           </div>
@@ -40,11 +39,9 @@ https://templatemo.com/tm-530-mini-profile
             <!-- White transparent bg -->
             <div class="col-md-7 tm-welcome-left-col">
               <div class="tm-welcome-left">
-                <h2 class="tm-welcome-title">Welcome to Mini Profile Page</h2>
+                <h2 class="tm-welcome-title">Welcome to Edmond Behaeghel's page Page</h2>
                 <p class="pb-0">
-                  This is Bootstrap v4.3.1 parallax layout for you. Credit goes to <a rel="nofollow" href="https://www.pexels.com">Pexels</a> for 2 background images. In
-                  odio sapien, commodo id ullamcorper ac, dignissim at sapien.
-                  Nullam leo massa, vaius ac massa et, tincidunt imperdiet
+                  Hardworking Student offering 1 year of work experience and extensive knowledge of Information technologies. Meticulous and detail-oriented with excellent observational, organizational and communication skills. Looking to continue education with a Co-Op in Information Technology during the Summer of 2021 or Full time employment.   
                 turpis. </p>
               </div>
             </div>
@@ -53,7 +50,9 @@ https://templatemo.com/tm-530-mini-profile
               <div class="tm-welcome-right">
                 <i class="fas fa-4x fa-address-card p-3 tm-welcome-icon"></i>
                 <p class="mb-0">
-                  Please spread a word about templatemo website. Anyone can download free Bootstrap CSS templates.
+                  Cell: (978)-408-5700  
+                  Email: epb9635@rit.edu  
+
                 </p>
               </div>
             </div>
