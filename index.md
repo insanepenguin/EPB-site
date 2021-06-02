@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="css/all.min.css" />
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/templatemo-style.css" />
-    <title>Mini Profile - Free Bootstrap CSS Template</title>
+    <title>Edmond Behaeghel Profile</title>
     
 <!--
 Mini Profile Template
@@ -69,17 +69,19 @@ https://templatemo.com/tm-530-mini-profile
           <div class="col-12">
             <div class="tm-portfolio-item">
               <div class="tm-portfolio-name text-white tm-bg-green">
-                Project Manager
+                Computing Science Intern 
               </div>
               <div class="tm-portfolio-description">
                 <h3 class="tm-text-green">
-                  New Company
+                  Vertex Pharmaceuticals, Boston, MA 
                   <span class="tm-title-small">(2019 January to Present)</span>
                 </h3>
                 <p class="mb-0">
-                  Nullam a tellus ultricies, ornare purus vel, porttitor massa.
-                  Aliquam facilisis purus ac eros sollicidudin, in mollis neque
-                  facilisis. Duis malesuada, mi non elementum malesuada.
+                  •	Constructed a system that allowed for alerting lab staff to conditions of an experiment. 
+                  •	Using Apache NIFI and MiniFi to do the data collection and sorting. 
+                  •	This system notified staff when an experiment failed allowing them to reset without needing 
+                    to wait till the end of a cycle cutting downtime buy 1-4 hours. 
+
                 </p>
               </div>
             </div>
