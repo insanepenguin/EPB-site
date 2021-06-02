@@ -42,7 +42,7 @@ https://templatemo.com/tm-530-mini-profile
                 <h2 class="tm-welcome-title">Welcome to Edmond Behaeghel's page Page</h2>
                 <p class="pb-0">
                   Hardworking Student offering 1 year of work experience and extensive knowledge of Information technologies. Meticulous and detail-oriented with excellent observational, organizational and communication skills. Looking to continue education with a Co-Op in Information Technology during the Summer of 2021 or Full time employment.   
-                turpis. </p>
+                </p>
               </div>
             </div>
             <!-- Brown bg -->
