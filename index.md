@@ -74,7 +74,7 @@ https://templatemo.com/tm-530-mini-profile
               <div class="tm-portfolio-description">
                 <h3 class="tm-text-green">
                   Vertex Pharmaceuticals, Boston, MA 
-                  <span class="tm-title-small">(2019 January to Present)</span>
+                  <span class="tm-title-small">May 2019 - Aug 2019</span>
                 </h3>
                 <p class="mb-0">
                   •	Constructed a system that allowed for alerting lab staff to conditions of an experiment. 
@@ -88,23 +88,23 @@ https://templatemo.com/tm-530-mini-profile
 
             <div class="tm-portfolio-item">
               <div class="tm-portfolio-name text-white tm-bg-orange">
-                Senior UX Designer
+                Computing Science Intern 
               </div>
               <div class="tm-portfolio-description">
                 <h3 class="tm-text-orange">
-                  Studio One
-                  <span class="tm-title-small">(2017 April to 2018 Dec)</span>
+                  Vertex Pharmaceuticals, Boston, MA 
+                  <span class="tm-title-small">May 2018 - Aug 2018</span>
                 </h3>
                 <p class="mb-0">
-                  Phasellus ac nulla egestas, malesuada dolor quis, scelerisque
-                  arcu. Morbi aliquam, nunc vel blandit mattis, sapien nisl
-                  convallis sem, quis hendrerit nisl tellus in lectus. Proin at
-                  nibh bibendum, tincidunt mauris sit amet, porta risus. Integer
-                  id malesuada ligula.
+                  •	Piloted a solution monitor lab environments recreation using the Internet of Things. 
+                  •	Using a Raspberry pi, MQTT, and Apache NIFI, prototyped a system that allowed for remote monitoring and alerting of lab conditions. 
+                  •	This prototype is a starting point for developing further IOT solutions. 
+                  •	Along with being a Proof of Concept to show the validity of this approach to lab monitoring. 
+
                 </p>
               </div>
             </div>
-
+            <!--
             <div class="tm-portfolio-item">
               <div class="tm-portfolio-name text-white tm-bg-blue">
                 Graphic Designer
@@ -139,7 +139,7 @@ https://templatemo.com/tm-530-mini-profile
                   ipsum, euismod dignissim dolor convallis ac.
                 </p>
               </div>
-            </div>
+            </div>-->
           </div>
         </div>
       </div>
