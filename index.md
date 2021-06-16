@@ -16,7 +16,7 @@ https://templatemo.com/tm-530-mini-profile
   </head>
   <body>
     <!-- Welcome Section -->
-    <section id="tmWelcome" class="parallax-window" data-parallax="scroll" data-image-src="img/mini-profile-bg-01.jpg">
+    <section id="tmWelcome" class="parallax-window" data-parallax="scroll" data-image-src="img/network.jpg">
       <div class="container-fluid tm-brand-container-outer">
         <div class="row">
           <div class="col-12">
@@ -41,7 +41,7 @@ https://templatemo.com/tm-530-mini-profile
               <div class="tm-welcome-left">
                 <h2 class="tm-welcome-title">Welcome to Edmond Behaeghel's page Page</h2>
                 <p class="pb-0">
-                  Hardworking Student offering 1 year of work experience and extensive knowledge of Information technologies. Meticulous and detail-oriented with excellent observational, organizational and communication skills. Looking to continue education with a Co-Op in Information Technology during the Summer of 2021 or Full time employment.   
+                  Hardworking Student offering 1 year of work experience and extensive knowledge of Information technologies. Meticulous and detail-oriented with excellent observational, organizational and communication skills. Looking to start my carrer as a System Administrator.
                 </p>
               </div>
             </div>
@@ -147,7 +147,7 @@ https://templatemo.com/tm-530-mini-profile
     <!-- End portfolio section -->
 
     <!-- Contact section -->
-    <div id="tmContact" class="parallax-window" data-parallax="scroll" data-image-src="img/mini-profile-bg-02.jpg">
+    <div id="tmContact" class="parallax-window" data-parallax="scroll" data-image-src="img/desk.jpg">
       <div class="container-fluid">
         <div class="row">
           <div class="col-12">
