@@ -50,7 +50,7 @@ https://templatemo.com/tm-530-mini-profile
               <div class="tm-welcome-right">
                 <i class="fas fa-4x fa-address-card p-3 tm-welcome-icon"></i>
                 <p class="mb-0">
-                  Cell: (978)-408-5700 </n>
+                  Cell: (978)-408-5700/
                   Email: epb9635@rit.edu  
 
                 </p>
@@ -77,11 +77,10 @@ https://templatemo.com/tm-530-mini-profile
                   <span class="tm-title-small">May 2019 - Aug 2019</span>
                 </h3>
                 <p class="mb-0">
-                  •	Constructed a system that allowed for alerting lab staff to conditions of an experiment. 
-                  •	Using Apache NIFI and MiniFi to do the data collection and sorting. 
+                  •	Constructed a system that allowed for alerting lab staff to conditions of an experiment.\ 
+                  •	Using Apache NIFI and MiniFi to do the data collection and sorting.\
                   •	This system notified staff when an experiment failed allowing them to reset without needing 
                     to wait till the end of a cycle cutting downtime buy 1-4 hours. 
-
                 </p>
               </div>
             </div>
@@ -96,10 +95,10 @@ https://templatemo.com/tm-530-mini-profile
                   <span class="tm-title-small">May 2018 - Aug 2018</span>
                 </h3>
                 <p class="mb-0">
-                  •	Piloted a solution monitor lab environments recreation using the Internet of Things. 
-                  •	Using a Raspberry pi, MQTT, and Apache NIFI, prototyped a system that allowed for remote monitoring and alerting of lab conditions. 
-                  •	This prototype is a starting point for developing further IOT solutions. 
-                  •	Along with being a Proof of Concept to show the validity of this approach to lab monitoring. 
+                  •	Piloted a solution monitor lab environments recreation using the Internet of Things.\
+                  •	Using a Raspberry pi, MQTT, and Apache NIFI, prototyped a system that allowed for remote monitoring and alerting of lab conditions.\
+                  •	This prototype is a starting point for developing further IOT solutions.\
+                  •	Along with being a Proof of Concept to show the validity of this approach to lab monitoring.\ 
 
                 </p>
               </div>
