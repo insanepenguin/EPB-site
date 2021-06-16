@@ -50,7 +50,7 @@ https://templatemo.com/tm-530-mini-profile
               <div class="tm-welcome-right">
                 <i class="fas fa-4x fa-address-card p-3 tm-welcome-icon"></i>
                 <p class="mb-0">
-                  Cell: (978)-408-5700/
+                  Cell: (978)-408-5700<br>
                   Email: epb9635@rit.edu  
 
                 </p>
