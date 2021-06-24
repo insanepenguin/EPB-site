@@ -80,7 +80,7 @@ https://templatemo.com/tm-530-mini-profile
                   •	Constructed a system that allowed for alerting lab staff to conditions of an experiment.<br>
                   •	Using Apache NIFI and MiniFi to do the data collection and sorting.<br>
                   •	This system notified staff when an experiment failed allowing them to reset without needing 
-                    to wait till the end of a cycle cutting downtime buy 1-4 hours. 
+                      to wait till the end of a cycle cutting downtime buy 1-4 hours. 
                 </p>
               </div>
             </div>
@@ -97,8 +97,8 @@ https://templatemo.com/tm-530-mini-profile
                 <p class="mb-0">
                   •	Piloted a solution monitor lab environments recreation using the Internet of Things.<br>
                   •	Using a Raspberry pi, MQTT, and Apache NIFI, prototyped a system that allowed for remote monitoring and alerting of lab conditions.<br>
-                  •	This prototype is a starting point for developing further IOT solutions.\
-                  •	Along with being a Proof of Concept to show the validity of this approach to lab monitoring.\ 
+                  •	This prototype is a starting point for developing further IOT solutions.
+                  •	Along with being a Proof of Concept to show the validity of this approach to lab monitoring.
 
                 </p>
               </div>
@@ -154,14 +154,22 @@ https://templatemo.com/tm-530-mini-profile
               <div class="tm-contact-item">
                 <i class="fas fa-5x fa-briefcase tm-contact-item-icon"></i>
                 <p class="mb-0">
-                  Quisque venenatis viverra ultrices. Lorem ipsum dolor sit
-                  amet. Nullam sit amet tempor nisl.
+                  Projects:
+                  Battle Ship
+                  My Home Lab
+                  Scripts For Sysadmins
                 </p>
               </div>
               <div class="tm-contact-item">
                 <i class="fas fa-5x fa-building tm-contact-item-icon"></i>
-                <p class="mb-0">
-                  You can absolutely feel free to use Mini Profile for your web page or any usage for your website.
+                <p class="mb-0">             
+                Skills:
+                <li>
+                  ▪	Programing: Java, Python, C, C++ 
+                  ▪	Networking: Wireshark/Packet tracing, Cisco command interface, VLANs, STP, Routing, OSPF, Tunnneling, IPv6
+                  ▪	DevOps: Docker, Kubernetes, Bash scripting, VMware 
+                  ▪	Adminstion: Centos, WIndows Server 2016, Redhat, Active Directory, DNS, DHCP, Cross Domain trusts(Between Linux and Windows)
+                </li>
                 </p>
               </div>
 
