@@ -25,7 +25,7 @@ https://templatemo.com/tm-530-mini-profile
             <div class="ml-auto mr-0 tm-bg-black-transparent text-white tm-brand-container-inner">
               <div class="tm-brand-container text-center">
                 <h1 class="tm-brand-name">Edmond Behaeghel</h1>
-                <p class="tm-brand-description mb-0">Computer Information Technologies Student</p>
+                <p class="tm-brand-description mb-0">Systems Administrator</p>
               </div>
             </div>
           </div>
@@ -76,7 +76,7 @@ https://templatemo.com/tm-530-mini-profile
                   <span class="tm-title-small">Vertex Pharmaceuticals, Boston, MA</span><br>
                   May 2019 - Aug 2019
                 </h3>
-                <p class="mb-0">
+                <p class="mb-0"><!--Make these a list-->>
                   •	Constructed a system that allowed for alerting lab staff to conditions of an experiment.<br>
                   •	Using Apache NIFI and MiniFi to do the data collection and sorting.<br>
                   •	This system notified staff when an experiment failed allowing them to reset without needing 
