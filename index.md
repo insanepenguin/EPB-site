@@ -96,10 +96,10 @@ https://templatemo.com/tm-530-mini-profile
                 </h3>
                 <p class="mb-0">
                   <ul class="jobdiscription">
-                  <li>Piloted a solution monitor lab environments recreation using the Internet of Things.
-                  <li>Using a Raspberry pi, MQTT, and Apache NIFI, prototyped a system that allowed for remote monitoring and alerting of lab conditions.
-                  <li>This prototype is a starting point for developing further IOT solutions.
-                  <li>Along with being a Proof of Concept to show the validity of this approach to lab monitoring.
+                    <li>Piloted a solution monitor lab environments recreation using the Internet of Things.</li>
+                    <li>Using a Raspberry pi, MQTT, and Apache NIFI, prototyped a system that allowed for remote monitoring and alerting of lab conditions.</li>
+                    <li>This prototype is a starting point for developing further IOT solutions.</li>
+                    <li>Along with being a Proof of Concept to show the validity of this approach to lab monitoring.</li>
                   </ul>
                 </p>
               </div>
