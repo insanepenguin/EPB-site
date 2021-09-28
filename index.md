@@ -177,14 +177,16 @@ https://templatemo.com/tm-530-mini-profile
                   </ul>
                 </p>
               </div>
-              <!--
+              
               <div class="tm-contact-item">
                 <i class="fas fa-5x fa-balance-scale tm-contact-item-icon"></i>
                 <p class="mb-0">
-                  You are NOT allowed to re-distribute this template in any download website. Else, it is illegal action.
+                  Homelab:
+                  I'm currenlty running a homelad with a IBM M13570 that hosts my development and testing infrastructure. IM using a pair of Raspberry pis to help with monitoring software and hardware.
+                  One of the Pis has a piHat that contains enviromental sensors and an LED matrix that is used to ensure the servers setting isn't outside of operating specifications.
                 </p>
               </div>
-              -->
+            
             </div>
           </div>
         </div>
