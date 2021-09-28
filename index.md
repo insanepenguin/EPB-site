@@ -41,7 +41,7 @@ https://templatemo.com/tm-530-mini-profile
               <div class="tm-welcome-left">
                 <h2 class="tm-welcome-title">Welcome to Edmond Behaeghel's page Page</h2>
                 <p class="pb-0">
-                  Hardworking Systems Administrator offering 1 year of work experience and extensive knowledge of Information technologies. Meticulous and detail-oriented with excellent observational, organizational and communication skills. Looking to start my carrer as a System Administrator.
+                  Hardworking Systems Administrator offering 1 year of work experience and extensive knowledge of Information technologies. Meticulous and detail-oriented with excellent observational, organizational, and communication skills. Looking to start my career as a System Administrator.
                 </p>
               </div>
             </div>
@@ -80,7 +80,7 @@ https://templatemo.com/tm-530-mini-profile
                   <ul class="jobdiscription">
                   <li>Constructed a system that allowed for alerting lab staff to conditions of an experiment.</li>
                   <li>Using Apache NIFI and MiniFi to do the data collection and sorting.</li>
-                  <li>This system notified staff when an experiment failed allowing them to reset without needing to wait till the end of a cycle cutting downtime buy 1-4 hours.</li>
+                  <li>This system notified staff when an experiment failed to allow them to reset without needing to wait till the end of a cycle cutting downtime by 1-4 hours.</li>
                   </ul>
                   
                 </p>
@@ -98,7 +98,7 @@ https://templatemo.com/tm-530-mini-profile
                 </h3>
                 <p class="mb-0">
                   <ul class="jobdiscription">
-                    <li>Piloted a solution monitor lab environments recreation using the Internet of Things.</li>
+                    <li>Piloted a solution to monitor lab environments recreation using the Internet of Things.</li>
                     <li>Using a Raspberry pi, MQTT, and Apache NIFI, prototyped a system that allowed for remote monitoring and alerting of lab conditions.</li>
                     <li>This prototype is a starting point for developing further IOT solutions.</li>
                     <li>Along with being a Proof of Concept to show the validity of this approach to lab monitoring.</li>
@@ -172,7 +172,7 @@ https://templatemo.com/tm-530-mini-profile
                 <ul>
                   <li>Programing: Java, Python</li>
                   <li>Networking: Wireshark/Packet tracing, Cisco command interface, VLANs, STP, Routing, OSPF, Tunnneling, IPv6</li>
-                  <li>DevOps: Docker, Kubernetes, Bash scripting, VMware</li> 
+                  <li>Virtulization: vSphere, VMworkstation, VirtualBox, Using VMs for testing and development</li>
                   <li>Adminstion: Centos, WIndows Server 2016, Redhat, Active Directory, DNS, DHCP, Monitoring</li>
                   </ul>
                 </p>
@@ -183,7 +183,7 @@ https://templatemo.com/tm-530-mini-profile
                 <!--<i class="fas fa-5x fa-balance-scale tm-contact-item-icon"></i>-->
                 <p class="mb-0">
                   Homelab:
-                  I'm currenlty running a Homelab with a server running vShere that hosts my development and testing infrastructure. I'm using a pair of Raspberry pis to help with monitoring software and hardware.
+                  I'm currenlty running a Homelab with a server running vShere that hosts my development and testing environment. I'm using a pair of Raspberry pis to help with monitoring software and hardware.
                 </p>
               </div>
             
