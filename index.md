@@ -179,7 +179,8 @@ https://templatemo.com/tm-530-mini-profile
               </div>
               
               <div class="tm-contact-item">
-                <i class="fas fa-5x fa-balance-scale tm-contact-item-icon"></i>
+                <i class="fas fa-5x fa-balance-scale fa-flask"></i>
+                <!--<i class="fas fa-5x fa-balance-scale tm-contact-item-icon"></i>-->
                 <p class="mb-0">
                   Homelab:
                   I'm currenlty running a Homelab with a IBM M1 3570 running vShere that hosts my development and testing infrastructure. IM using a pair of Raspberry pis to help with monitoring software and hardware.
