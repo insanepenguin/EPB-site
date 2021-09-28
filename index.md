@@ -106,6 +106,27 @@ https://templatemo.com/tm-530-mini-profile
                 </p>
               </div>
             </div>
+            <div class="tm-portfolio-item">
+              <div class="tm-portfolio-name text-white tm-bg-green">
+                Supervisor for RIT Telefund
+              </div>
+              <div class="tm-portfolio-description">
+                <h3 class="tm-text-green">
+                  <span class="tm-title-small">RIT, Henrietta, NY</span><br>
+                  May 2020 - Aug 2021
+                </h3>
+                <p class="mb-0">
+                  <ul class="jobdiscription">
+                    <li>Provided training to new hires.</li>
+                    <li>Helped running shifts by Preparing before a shift, motivating and helping callers during the shift, cleaning up, and debriefing after shit.</li>
+                    <li>Was responsible for monitoring callers and coaching them to get better.</li>
+                    <li>Implemented and maintained a new attendance tool that the whole office could use.</li>
+                    <li>Interviewing possible candidates both over the phone and in-person.</li>
+                  </ul>
+                  
+                </p>
+              </div>
+            </div>
             <!--
             <div class="tm-portfolio-item">
               <div class="tm-portfolio-name text-white tm-bg-blue">
