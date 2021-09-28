@@ -158,7 +158,7 @@ https://templatemo.com/tm-530-mini-profile
                 <i class="fas fa-5x fa-briefcase tm-contact-item-icon"></i>
                 <p class="mb-0">
                   <ul>
-                  <li><a href="EPB-site/files/EPB_resumeCurrent.pdf" type="application/pdf">My Resume</a></li>
+                  <li><a href="https://insanepenguin.github.io/EPB-site/files/EPB_resumeCurrent.pdf" type="application/pdf">My Resume</a></li>
                   <li><a href="https://github.com/insanepenguin" >GITHUB</a></li>
                   <li><a href="https://www.linkedin.com/in/edmond-behaeghel-8151971b2/">Linkedin</a></li>
                   </ul>
