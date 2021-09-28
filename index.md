@@ -41,7 +41,7 @@ https://templatemo.com/tm-530-mini-profile
               <div class="tm-welcome-left">
                 <h2 class="tm-welcome-title">Welcome to Edmond Behaeghel's page Page</h2>
                 <p class="pb-0">
-                  Hardworking Student offering 1 year of work experience and extensive knowledge of Information technologies. Meticulous and detail-oriented with excellent observational, organizational and communication skills. Looking to start my carrer as a System Administrator.
+                  Hardworking Systems Administrator offering 1 year of work experience and extensive knowledge of Information technologies. Meticulous and detail-oriented with excellent observational, organizational and communication skills. Looking to start my carrer as a System Administrator.
                 </p>
               </div>
             </div>
@@ -76,11 +76,13 @@ https://templatemo.com/tm-530-mini-profile
                   <span class="tm-title-small">Vertex Pharmaceuticals, Boston, MA</span><br>
                   May 2019 - Aug 2019
                 </h3>
-                <p class="mb-0"><!--Make these a list-->>
-                  •	Constructed a system that allowed for alerting lab staff to conditions of an experiment.<br>
-                  •	Using Apache NIFI and MiniFi to do the data collection and sorting.<br>
-                  •	This system notified staff when an experiment failed allowing them to reset without needing 
-                      to wait till the end of a cycle cutting downtime buy 1-4 hours. 
+                <p class="mb-0">
+                  <ol>
+                  <li>Constructed a system that allowed for alerting lab staff to conditions of an experiment.</li>
+                  <li>Using Apache NIFI and MiniFi to do the data collection and sorting.</li>
+                  <li>This system notified staff when an experiment failed allowing them to reset without needing to wait till the end of a cycle cutting downtime buy 1-4 hours.</li>
+                  </ol>
+                  
                 </p>
               </div>
             </div>
