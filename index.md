@@ -164,12 +164,12 @@ https://templatemo.com/tm-530-mini-profile
                 <i class="fas fa-5x fa-building tm-contact-item-icon"></i>
                 <p class="mb-0">             
                 Skills:
-                <li>
-                  Programing: Java, Python<br>
-                  Networking: Wireshark/Packet tracing, Cisco command interface, VLANs, STP, Routing, OSPF, Tunnneling, IPv6<br>
-                  DevOps: Docker, Kubernetes, Bash scripting, VMware<br>
-                  Adminstion: Centos, WIndows Server 2016, Redhat, Active Directory, DNS, DHCP, Monitoring<br>
-                </li>
+                <ol>
+                  <li>Programing: Java, Python</li>
+                  <li>Networking: Wireshark/Packet tracing, Cisco command interface, VLANs, STP, Routing, OSPF, Tunnneling, IPv6</li>
+                  <li>DevOps: Docker, Kubernetes, Bash scripting, VMware</li> 
+                  <li>Adminstion: Centos, WIndows Server 2016, Redhat, Active Directory, DNS, DHCP, Monitoring</li>
+                  </ol>
                 </p>
               </div>
               <!--
