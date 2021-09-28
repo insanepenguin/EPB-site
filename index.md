@@ -157,11 +157,11 @@ https://templatemo.com/tm-530-mini-profile
               <div class="tm-contact-item">
                 <i class="fas fa-5x fa-briefcase tm-contact-item-icon"></i>
                 <p class="mb-0">
-                  <ol>
+                  <ul>
                   <li><a href="EPB-site/files/EPB_resumeCurrent.pdf" type="application/pdf">My Resume</a></li>
                   <li><a href="https://github.com/insanepenguin" >GITHUB</a></li>
                   <li><a href="https://www.linkedin.com/in/edmond-behaeghel-8151971b2/">Linkedin</a></li>
-                  </ol>
+                  </ul>
                   
                 </p>
               </div>
@@ -169,12 +169,12 @@ https://templatemo.com/tm-530-mini-profile
                 <i class="fas fa-5x fa-building tm-contact-item-icon"></i>
                 <p class="mb-0">             
                 Skills:
-                <ol>
+                <ul>
                   <li>Programing: Java, Python</li>
                   <li>Networking: Wireshark/Packet tracing, Cisco command interface, VLANs, STP, Routing, OSPF, Tunnneling, IPv6</li>
                   <li>DevOps: Docker, Kubernetes, Bash scripting, VMware</li> 
                   <li>Adminstion: Centos, WIndows Server 2016, Redhat, Active Directory, DNS, DHCP, Monitoring</li>
-                  </ol>
+                  </ul>
                 </p>
               </div>
               <!--
