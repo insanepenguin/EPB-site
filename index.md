@@ -166,7 +166,7 @@ https://templatemo.com/tm-530-mini-profile
                 </p>
               </div>
               <div class="tm-contact-item">
-                <i class="fas fa-5x fa-building tm-contact-item-icon"></i>
+                <i class="fas fa-5x fa-network-wired tm-contact-item-icon"></i>
                 <p class="mb-0">             
                 Skills:
                 <ul>
