@@ -73,8 +73,8 @@ https://templatemo.com/tm-530-mini-profile
               </div>
               <div class="tm-portfolio-description">
                 <h3 class="tm-text-green">
-                  Vertex Pharmaceuticals, Boston, MA 
-                  <span class="tm-title-small">May 2019 - Aug 2019</span>
+                  <span class="tm-title-small">Vertex Pharmaceuticals, Boston, MA</span><br>
+                  May 2019 - Aug 2019
                 </h3>
                 <p class="mb-0">
                   •	Constructed a system that allowed for alerting lab staff to conditions of an experiment.<br>
@@ -91,8 +91,8 @@ https://templatemo.com/tm-530-mini-profile
               </div>
               <div class="tm-portfolio-description">
                 <h3 class="tm-text-orange">
-                  Vertex Pharmaceuticals, Boston, MA 
-                  <span class="tm-title-small">May 2018 - Aug 2018</span>
+                  <span class="tm-title-small"> Vertex Pharmaceuticals, Boston, MA</span><br>
+                  May 2018 - Aug 2018
                 </h3>
                 <p class="mb-0">
                   •	Piloted a solution monitor lab environments recreation using the Internet of Things.<br>
@@ -171,13 +171,14 @@ https://templatemo.com/tm-530-mini-profile
                 </li>
                 </p>
               </div>
-
+              <!--
               <div class="tm-contact-item">
                 <i class="fas fa-5x fa-balance-scale tm-contact-item-icon"></i>
                 <p class="mb-0">
                   You are NOT allowed to re-distribute this template in any download website. Else, it is illegal action.
                 </p>
               </div>
+              -->
             </div>
           </div>
         </div>
