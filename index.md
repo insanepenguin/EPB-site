@@ -95,11 +95,12 @@ https://templatemo.com/tm-530-mini-profile
                   May 2018 - Aug 2018
                 </h3>
                 <p class="mb-0">
-                  •	Piloted a solution monitor lab environments recreation using the Internet of Things.<br>
-                  •	Using a Raspberry pi, MQTT, and Apache NIFI, prototyped a system that allowed for remote monitoring and alerting of lab conditions.<br>
-                  •	This prototype is a starting point for developing further IOT solutions.<br>
-                  •	Along with being a Proof of Concept to show the validity of this approach to lab monitoring.
-
+                  <ul class="jobdiscription">
+                  <li>Piloted a solution monitor lab environments recreation using the Internet of Things.
+                  <li>Using a Raspberry pi, MQTT, and Apache NIFI, prototyped a system that allowed for remote monitoring and alerting of lab conditions.
+                  <li>This prototype is a starting point for developing further IOT solutions.
+                  <li>Along with being a Proof of Concept to show the validity of this approach to lab monitoring.
+                  </ul>
                 </p>
               </div>
             </div>
@@ -155,8 +156,8 @@ https://templatemo.com/tm-530-mini-profile
                 <i class="fas fa-5x fa-briefcase tm-contact-item-icon"></i>
                 <p class="mb-0">
                   <a href="/files/EPB_resumeCurrent.pdf">My Resume</a><br>
-                  <a href="https://github.com/insanepenguin">GitHUB</a>
-                  <a href="https://www.linkedin.com/in/edmond-behaeghel-8151971b2/">Linkedin</a>
+                  <a href="https://github.com/insanepenguin" type="application/pdf"></a>GitHUB</a><br>
+                  <a href="https://www.linkedin.com/in/edmond-behaeghel-8151971b2/"></a>Linkedin</a>
                 </p>
               </div>
               <div class="tm-contact-item">
@@ -164,10 +165,10 @@ https://templatemo.com/tm-530-mini-profile
                 <p class="mb-0">             
                 Skills:
                 <li>
-                  ▪	Programing: Java, Python<br>
-                  ▪	Networking: Wireshark/Packet tracing, Cisco command interface, VLANs, STP, Routing, OSPF, Tunnneling, IPv6<br>
-                  ▪	DevOps: Docker, Kubernetes, Bash scripting, VMware<br>
-                  ▪	Adminstion: Centos, WIndows Server 2016, Redhat, Active Directory, DNS, DHCP, Monitoring<br>
+                  Programing: Java, Python<br>
+                  Networking: Wireshark/Packet tracing, Cisco command interface, VLANs, STP, Routing, OSPF, Tunnneling, IPv6<br>
+                  DevOps: Docker, Kubernetes, Bash scripting, VMware<br>
+                  Adminstion: Centos, WIndows Server 2016, Redhat, Active Directory, DNS, DHCP, Monitoring<br>
                 </li>
                 </p>
               </div>
