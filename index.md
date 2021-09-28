@@ -97,7 +97,7 @@ https://templatemo.com/tm-530-mini-profile
                 <p class="mb-0">
                   •	Piloted a solution monitor lab environments recreation using the Internet of Things.<br>
                   •	Using a Raspberry pi, MQTT, and Apache NIFI, prototyped a system that allowed for remote monitoring and alerting of lab conditions.<br>
-                  •	This prototype is a starting point for developing further IOT solutions.
+                  •	This prototype is a starting point for developing further IOT solutions.<br>
                   •	Along with being a Proof of Concept to show the validity of this approach to lab monitoring.
 
                 </p>
@@ -154,10 +154,7 @@ https://templatemo.com/tm-530-mini-profile
               <div class="tm-contact-item">
                 <i class="fas fa-5x fa-briefcase tm-contact-item-icon"></i>
                 <p class="mb-0">
-                  Projects:
-                  Battle Ship
-                  My Home Lab
-                  Scripts For Sysadmins
+                  <a href="/files/EPB_resumeCurrent.pdf">My Resume</a>
                 </p>
               </div>
               <div class="tm-contact-item">
