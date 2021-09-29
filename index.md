@@ -118,9 +118,9 @@ https://templatemo.com/tm-530-mini-profile
                 <p class="mb-0">
                   <ul class="jobdiscription">
                     <li>Provided training to new hires.</li>
-                    <li>Helped running shifts by Preparing before a shift, motivating and helping callers during the shift, cleaning up, and debriefing after shit.</li>
-                    <li>Was responsible for monitoring callers and coaching them to get better.</li>
-                    <li>Implemented and maintained a new attendance tool that the whole office could use.</li>
+                    <li>Helped running shifts by preparing before a shift, motivating and helping callers during the shift, cleaning up, and debriefing after shit.</li>
+                    <li>Was responsible for monitoring callers and coaching them in order to help them achive more postive results in the call center.</li>
+                    <li>Implemented and maintained a new attendance tool that was accessible and easy to use for supervisors and directors.</li>
                     <li>Interviewing possible candidates both over the phone and in-person.</li>
                   </ul>
                   
@@ -193,7 +193,7 @@ https://templatemo.com/tm-530-mini-profile
                 <ul>
                   <li>Programing: Java, Python</li>
                   <li>Networking: Wireshark/Packet tracing, Cisco command interface, VLANs, STP, Routing, OSPF, Tunnneling, IPv6</li>
-                  <li>Virtulization: vSphere, VMworkstation, VirtualBox, Using VMs for testing and development</li>
+                  <li>Virtualization: vSphere, VMworkstation, VirtualBox, Using VMs for testing and development</li>
                   <li>Adminstion: Centos, WIndows Server 2016, Redhat, Active Directory, DNS, DHCP, Monitoring</li>
                   </ul>
                 </p>
